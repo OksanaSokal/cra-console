@@ -19,6 +19,7 @@ function App() {
         </a>
         <a>link</a>
         <p>New paragraph</p>
+        <div>Create new branch</div>
       </header>
     </div>
   );
